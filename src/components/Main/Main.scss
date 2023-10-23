@@ -1,0 +1,26 @@
+@import '../scss/Base.scss';
+
+.main-wrapper {
+    width: 70%;
+
+    .company-wrapper {
+        padding: 15px 0;
+
+        .company-name {
+            margin: 0 0 10px;
+        }
+
+        .position {
+            margin: 0 0 5px;
+        }
+
+        .year {
+            margin: 0;
+        }
+
+        .description span {
+            font-weight: 600;
+            font-style: italic;
+        }
+    }
+}

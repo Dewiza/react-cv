@@ -1,0 +1,18 @@
+@import '../scss/Base.scss';
+
+.blue-bgc {
+    background-color: $blue;
+
+    .sidebar {
+        width: 30%;
+    }
+
+    .main {
+        width: 70%;
+    }
+
+    h3 {
+        padding: 10px 0;
+        color: $white;
+    }
+}

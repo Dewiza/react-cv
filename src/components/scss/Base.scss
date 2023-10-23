@@ -1,0 +1,19 @@
+$white: #fff;
+$black: #000;
+$blue: #0470ff;
+
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.container-fluid {
+    width: 100%;
+}
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.row {
+    display: flex;
+}
